@@ -38,3 +38,7 @@ scikit-learn>=1.3.0  # For clustering, dimensionality reduction
 tqdm>=4.66.0  # Progress bars
 python-dotenv>=1.0.0  # Environment variables
 pyarrow>=13.0.0  # For parquet files
+
+# Video Processing (for YouTube overlay approach)
+yt-dlp>=2023.10.13  # YouTube video download
+ffmpeg-python>=0.2.0  # Video manipulation
